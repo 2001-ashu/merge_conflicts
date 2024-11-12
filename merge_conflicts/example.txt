@@ -1,2 +1,6 @@
 This is the main file in main branch
+<<<<<<< HEAD
+Change from branch_2
+=======
 This is branch_1
+>>>>>>> branch_1
